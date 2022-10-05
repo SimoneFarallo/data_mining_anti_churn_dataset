@@ -7,4 +7,4 @@ The problem was studied in the context of binary classification and addressed th
 and oversampling, in order to solve problems related to the dimensionality of the data and classes unbalanced. Models such as the Random Forest, Logistic Regression, the Multi-Layer Perceptron and the Gaussian Naive Bayes were implemented; performance was evaluated in terms of.
 Accuracy, Precision, Recall, F-measure and AUC. Finally, the quantile method was also applied as a further evaluation of the best performing model.
 
-Per questioni di privacy, non è possibile pubblicare il dataset.
+Due to privacy issues, the dataset cannot be published.
