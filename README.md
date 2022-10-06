@@ -1,4 +1,4 @@
-# Data Mining on Anti-Churn Dataset.
+# Data Mining on Anti-Churn Dataset
 
 The goal of the project consists in extracting information to create value for support decisions.
 The approach of data mining is used, that is a set of techniques and methodologies aimed at extracting useful information from large amounts of data (e.g., databases, data warehouses, etc.), through automated or semi-automated methods (e.g., machine learning) and the scientific, business, industrial, or operational use of the same.
